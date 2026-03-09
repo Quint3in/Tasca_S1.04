@@ -27,4 +27,7 @@ public class Calculator {
             throw new ArithmeticException("Division by zero");
         }
     }
+    public void reset() {
+        total = 0;
+    }
 }
