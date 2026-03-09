@@ -24,6 +24,13 @@ numbers or numbers that are too large, to verify that
 the method correctly handles these situations (for
 example, by throwing an exception).
 
+## Level 1 Exercise 3
+**Description**:
+Create a Java class that contains a public method which
+throws an `ArrayIndexOutOfBoundsException`.
+For example, this method can try to access a non-existent
+position in an array.
+
 ## Technologies
 - Backend: Java-Maven.
 
