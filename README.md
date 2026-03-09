@@ -1,32 +1,32 @@
-﻿# Tasca S1.04
+# Task S1.04
 
-## Nivell 1 Exercici 1
-**Descripció**:
-Crea una classe Java que gestioni una col·lecció de 
-llibres d’una biblioteca.
+## Level 1 Exercise 1
+**Description**:
+Create a Java class that manages a collection of
+library books.
 
-## Nivell 1 Exercici 2
-**Descripció**:
-Crea una classe anomenada CalculoDni que contingui un 
-mètode públic per calcular la lletra corresponent d’un DNI,
-donat el número (sense lletra).
+## Level 1 Exercise 2
+**Description**:
+Create a class named `DniCalculator` that contains a
+public method to calculate the corresponding DNI letter,
+given the number (without the letter).
 
-Crea una classe de test amb JUnit 5 que parametritzi una 
-sèrie de proves per validar el comportament correcte del 
-càlcul.
+Create a test class with JUnit 5 that parameterizes a
+set of tests to validate the correct behavior of the
+calculation.
 
-El test ha de comprovar com a mínim 10 casos de números de 
-DNI diferents amb la seva lletra corresponent, validant que
-el resultat del mètode coincideix amb el valor esperat.
+The test must check at least 10 different DNI number
+cases with their corresponding letter, validating that
+the method result matches the expected value.
 
-També s'ha de validar valors invàlids, com números negatius
-o massa grans, per comprovar que el mètode gestiona 
-correctament aquestes situacions (per exemple, llençant
-una excepció).
+Invalid values must also be validated, such as negative
+numbers or numbers that are too large, to verify that
+the method correctly handles these situations (for
+example, by throwing an exception).
 
-## 🛠 Tecnologies
+## Technologies
 - Backend: Java-Maven.
 
-## 🚀 Instal·lació i Execució
-1. Clonar el repositori: `git clone https://github.com/Quint3in/Tasca_S1.04.git`
-2. Execució de l'aplicació.
+## Installation and Execution
+1. Clone the repository: `git clone https://github.com/Quint3in/Tasca_S1.04.git`
+2. Run the application.
