@@ -31,6 +31,44 @@ throws an `ArrayIndexOutOfBoundsException`.
 For example, this method can try to access a non-existent
 position in an array.
 
+## Level 2 Exercise 1
+**Description**:
+Write one assertion that proves the value of two integer
+objects is equal, and another assertion that proves it is not.
+
+## Level 2 Exercise 2
+**Description**:
+Write one assertion that proves the reference to one object
+is the same as another, and another assertion that proves
+it is different.
+
+## Level 2 Exercise 3
+**Description**:
+Write an assertion that indicates two integer arrays are
+identical.
+
+## Level 2 Exercise 4
+**Description**:
+Create an `ArrayList` that contains different types of objects
+(create them as well). Write an assertion to verify the order
+of the objects in the `ArrayList` according to insertion order.
+
+## Level 2 Exercise 5
+**Description**:
+Create a map and verify that it contains one of the keys
+that you add.
+
+## Level 2 Exercise 6
+**Description**:
+Trigger an `ArrayIndexOutOfBoundsException` in any class.
+Create an assertion that validates the exception is thrown
+when expected.
+
+## Level 2 Exercise 7
+**Description**:
+Create an empty `Optional` object. Write the correct assertion
+to verify that it is effectively empty.
+
 ## Technologies
 - Backend: Java-Maven.
 
