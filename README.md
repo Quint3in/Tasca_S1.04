@@ -69,6 +69,17 @@ when expected.
 Create an empty `Optional` object. Write the correct assertion
 to verify that it is effectively empty.
 
+## Level 3 Exercise 1
+**Objective**:
+Learn to apply the Red -> Green -> Refactor cycle to
+iteratively design a class, starting from the needs
+expressed in each test.
+
+**Description**:
+We will implement a class named `Calculator` that manages
+an accumulated total, initially `0`, and provides operations
+such as add, subtract, multiply, divide, and reset.
+
 ## Technologies
 - Backend: Java-Maven.
 
