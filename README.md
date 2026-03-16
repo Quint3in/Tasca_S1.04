@@ -85,4 +85,8 @@ such as add, subtract, multiply, divide, and reset.
 
 ## Installation and Execution
 1. Clone the repository: `git clone https://github.com/Quint3in/Tasca_S1.04.git`
-2. Run the application.
+2. Go into the project folder: `cd Tasca_S1.04`
+3. Build the module you want (from the root). Example for `n2exercici1`:
+   `mvn -pl n2exercici1 -am package`
+4. Run it (from the root):
+   `java -cp n2exercici1/target/classes org.example.Main`
